@@ -1,6 +1,6 @@
 # CSV Spectra Merge & Combine 📊
 
-<img width="997" height="1375" alt="Screenshot 2026-01-07 171925" src="https://github.com/user-attachments/assets/399340f5-526b-4174-96a8-ae4ea3f13a1d" />
+<img width="700" height="962" alt="Screenshot 2026-01-07 171925" src="https://github.com/user-attachments/assets/399340f5-526b-4174-96a8-ae4ea3f13a1d" />
 
 ## 📝 Overview
 **CSV Spectra Merge** is a GUI-based tool designed to batch process and merge multiple spectral CSV files into a single, unified dataset.
@@ -42,12 +42,6 @@ pandas
 numpy
 
 🔧 Installation
-Clone the repository:
-
-Bash
-
-git clone [https://github.com/tuo-username/csv-spectra-merge.git](https://github.com/tuo-username/csv-spectra-merge.git)
-cd csv-spectra-merge
 
 Install dependencies:
 
